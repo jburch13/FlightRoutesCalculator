@@ -32,7 +32,7 @@ object MockyService {
         @GET("987c7d08-372b-4d28-ad8b-554d87c669f4")
         fun flights(): Call<FlightsResponse>
 
-        @GET("")
+        @GET("d56111d1-1a7b-4c07-8b91-d248fb37a01b")
         fun airlines(): Call<AirlinesResponse>
 
     }
