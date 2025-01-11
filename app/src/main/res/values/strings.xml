@@ -2,4 +2,5 @@
     <string name="app_name">FlightRoutesCalculator</string>
     <string name="tab_outbound_text">Outbound</string>
     <string name="tab_inbound_text">Inbound</string>
+    <string name="no_data_text">No data</string>
 </resources>

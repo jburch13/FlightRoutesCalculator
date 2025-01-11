@@ -48,6 +48,9 @@ dependencies {
     implementation(libs.lifecycle.viewmodel.ktx)
     // LiveData
     implementation(libs.lifecycle.livedata.ktx)
+    // Retrofit
+    implementation(libs.retrofit)
+    implementation(libs.converter.gson)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
